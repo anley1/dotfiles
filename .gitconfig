@@ -4,6 +4,10 @@
 	editor = vi
 [pull]
 	rebase = false
+[fetch]
+	prune = true
+[credential]
+	helper = store
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean -- %f
