@@ -1,2 +1,2 @@
 # dotfiles
-some config to be a better developer ⏩
+some config for speedy development ⏩
