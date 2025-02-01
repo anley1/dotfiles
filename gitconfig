@@ -2,6 +2,8 @@
 	excludesfile = ~/.gitignore_global
 	pager = diff-so-fancy | less --tabs=4 -RFX
 	editor = vi
+[init]
+	defaultBranch = master
 [pull]
 	rebase = false
 [fetch]
